@@ -1,3 +1,5 @@
+# NilCheck
+
 ## 概要
 
 - [Tell, Don't Ask](https://robots.thoughtbot.com/tell-dont-ask)の原理に違反しています。
